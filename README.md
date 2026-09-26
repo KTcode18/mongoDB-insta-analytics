@@ -3,7 +3,7 @@ This project tries to analyze Instagram user behavior using MongoDB and identify
 
 
 Dashboard Link : https://charts.mongodb.com/charts-project-0-opjspsp/public/dashboards/38727f2c-aa49-43f5-8c0d-34f93094dccb
-(sometimes the link might not work because the MongoDB cluster gets auto-paused 
+(sometimes the link might not work because the MongoDB cluster gets auto-paused)
 
 
 Dashboard snapshot :
